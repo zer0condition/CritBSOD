@@ -42,7 +42,6 @@ int main()
     if (status != 0)
         printf("Error: %#x\n", status);
 
-
     printf("Press any key to BSOD!\n");
     getchar();
 
